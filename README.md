@@ -62,7 +62,7 @@ This repository provides an in-depth analysis of an online learning platform's c
 ---
 
 ## Dashboard Visualization
-![Dashboard Overview](Screenshot%202025-02-08%20140609.png)
+![Dashboard Overview](https://github.com/oms0401/edtech-powerbi-analysis/blob/daf7dce9c187ee4c51306af5d0f5cfb95f514b22/analysis.png)
 
 The dashboard provides a visual representation of the insights, including course distribution, language preferences, and performance metrics.
 
@@ -70,7 +70,7 @@ The dashboard provides a visual representation of the insights, including course
 
 ## Repository Structure
 - `README.md`: This file, containing all insights and findings.
-- `Screenshot 2025-02-08 140609.png`: Dashboard image for visual reference.
+- `analysis.png`: Dashboard image for visual reference.
 
 ---
 
